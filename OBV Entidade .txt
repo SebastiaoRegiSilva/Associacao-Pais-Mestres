@@ -1,0 +1,2 @@
+Uma Entidade, além de possuir um Identificador, possui o seu tempo de vida dentro do dominio. Toda entidade, possui acontecimentos que houveram em seu ciclo de existência, ou seja, as Entidades tem uma história de vida.
+Quanto aos Objetos de Valor, esses não possuem nenhum tipo de vinculo com o ciclo de vida do dominio ou aplicação. Todo e qualquer objeto de valor, devido sua Imutabilidade (tema abordado no próximo tópico abaixo), podem ser destruídos e criados novamente.

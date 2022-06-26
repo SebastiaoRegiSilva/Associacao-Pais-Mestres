@@ -1,0 +1,1 @@
+Link de base para criação da API de disparo de E-mail.

@@ -1,0 +1,25 @@
+Criar uma nova solution.
+dotnet new sln --name "O nome da sua solution."
+
+Adicionar os projetos na solution.
+dotnet sln add "caminho do .csproj".
+
+Adicionar projeto a outro projeto, dependendo cada pasta é um projeto.
+dotnet add/remove reference "Caminho do .csproj" – Adiciona referência de projetos para outros projetos;
+
+Quando referenciar projetos entre si, vê a necessidade. 
+No repositório tem o domínio referenciado.
+
+Na Api vai ter o domínio e o repositório referenciados.
+
+
+Alguns do comandos mais usados são :
+
+dotnet new – Criar novos projetos;
+dotnet run – Executa projetos;
+dotnet test – Executa projetos de teste e testes de unidade;
+dotnet publish – Usado para publicar projetos;
+dotnet new sln - Cria uma nova solution;
+dotnet sln add/remove – Adiciona projetos para uma solução;
+dotnet add/remove reference – Adiciona referência de projetos para outros projetos;
+dotnet add/remove package – Adicioina referência de pacotes Nuget para um projeto;
